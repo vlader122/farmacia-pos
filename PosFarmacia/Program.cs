@@ -1,5 +1,7 @@
 using DB;
 using Microsoft.EntityFrameworkCore;
+using Repository;
+using Service;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +16,12 @@ builder.Services.AddDbContext<PosFarmaciaContext>(options =>
 {
     options.UseNpgsql(builder.Configuration.GetConnectionString("PosFarmaciaConeccion"));
 });
+
+//Repository
+builder.Services.AddScoped<ClienteRepository>();
+
+//Service
+builder.Services.AddScoped<ClienteService>();
 
 var app = builder.Build();
 

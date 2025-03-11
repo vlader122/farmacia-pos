@@ -957,6 +957,33 @@
         "runtime": {
           "bin/placeholder/DB.dll": {}
         }
+      },
+      "Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "DB": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repository.dll": {}
+        }
+      },
+      "Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "DB": "1.0.0",
+          "Repository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.dll": {}
+        }
       }
     }
   },
@@ -2855,6 +2882,16 @@
       "type": "project",
       "path": "../DB/DB.csproj",
       "msbuildProject": "../DB/DB.csproj"
+    },
+    "Repository/1.0.0": {
+      "type": "project",
+      "path": "../Repository/Repository.csproj",
+      "msbuildProject": "../Repository/Repository.csproj"
+    },
+    "Service/1.0.0": {
+      "type": "project",
+      "path": "../Service/Service.csproj",
+      "msbuildProject": "../Service/Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2864,7 +2901,8 @@
       "Microsoft.EntityFrameworkCore >= 9.0.2",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.2",
       "Npgsql >= 9.0.3",
-      "Npgsql.EntityFrameworkCore.PostgreSQL >= 9.0.4"
+      "Npgsql.EntityFrameworkCore.PostgreSQL >= 9.0.4",
+      "Service >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2901,6 +2939,9 @@
           "projectReferences": {
             "C:\\Users\\Niver\\source\\repos\\PosFarmacia\\DB\\DB.csproj": {
               "projectPath": "C:\\Users\\Niver\\source\\repos\\PosFarmacia\\DB\\DB.csproj"
+            },
+            "C:\\Users\\Niver\\source\\repos\\PosFarmacia\\Service\\Service.csproj": {
+              "projectPath": "C:\\Users\\Niver\\source\\repos\\PosFarmacia\\Service\\Service.csproj"
             }
           }
         }

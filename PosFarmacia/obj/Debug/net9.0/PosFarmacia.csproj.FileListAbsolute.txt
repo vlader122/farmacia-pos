@@ -122,3 +122,7 @@ C:\Users\Niver\source\repos\PosFarmacia\PosFarmacia\bin\Debug\net9.0\ru\Microsof
 C:\Users\Niver\source\repos\PosFarmacia\PosFarmacia\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Niver\source\repos\PosFarmacia\PosFarmacia\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Niver\source\repos\PosFarmacia\PosFarmacia\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Niver\source\repos\PosFarmacia\PosFarmacia\bin\Debug\net9.0\Repository.dll
+C:\Users\Niver\source\repos\PosFarmacia\PosFarmacia\bin\Debug\net9.0\Service.dll
+C:\Users\Niver\source\repos\PosFarmacia\PosFarmacia\bin\Debug\net9.0\Service.pdb
+C:\Users\Niver\source\repos\PosFarmacia\PosFarmacia\bin\Debug\net9.0\Repository.pdb
