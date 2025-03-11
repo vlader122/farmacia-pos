@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosFarmacia", "PosFarmacia\PosFarmacia.csproj", "{450A996C-917F-45CD-ABBF-E5EB14CD4724}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB", "DB\DB.csproj", "{E21F145C-45EE-4400-A56D-4E57B22D6F2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{450A996C-917F-45CD-ABBF-E5EB14CD4724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450A996C-917F-45CD-ABBF-E5EB14CD4724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450A996C-917F-45CD-ABBF-E5EB14CD4724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450A996C-917F-45CD-ABBF-E5EB14CD4724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E21F145C-45EE-4400-A56D-4E57B22D6F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E21F145C-45EE-4400-A56D-4E57B22D6F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E21F145C-45EE-4400-A56D-4E57B22D6F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E21F145C-45EE-4400-A56D-4E57B22D6F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0775C343-F455-42F3-A054-D0927DDAAA64}
+	EndGlobalSection
+EndGlobal

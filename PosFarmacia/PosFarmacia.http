@@ -1,0 +1,6 @@
+@PosFarmacia_HostAddress = http://localhost:5003
+
+GET {{PosFarmacia_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
