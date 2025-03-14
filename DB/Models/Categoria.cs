@@ -8,14 +8,12 @@ using System.Threading.Tasks;
 
 namespace DB.Models
 {
-    public class Cliente
+    public class Categoria
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int ClienteId { get; set; }
-        public string Nombres { get; set; }
-        public string Apellidos { get; set; }
-        public string Direccion { get; set; }
-        public string Telefono { get; set; }
+        public int CategoriaId { get; set; }
+        public string Descripcion { get; set; }
+
     }
 }

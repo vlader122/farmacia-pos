@@ -13,5 +13,10 @@ namespace DB
         public PosFarmaciaContext(DbContextOptions<PosFarmaciaContext> options) : base(options) { }
 
         public DbSet<Cliente> Clientes { get; set; }
+        public DbSet<Categoria> Categorias { get; set; }
+        public DbSet<Venta> Ventas { get; set; }
+        public DbSet<DetalleVenta> DetalleVentas { get; set; }
+        public DbSet<Producto> Productos { get; set; }
+
     }
 }
