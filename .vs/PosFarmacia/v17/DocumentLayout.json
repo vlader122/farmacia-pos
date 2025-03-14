@@ -3,24 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Migrations\\20250313022804_primera-version.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB\\Migrations\\20250313022804_primera-version.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E21F145C-45EE-4400-A56D-4E57B22D6F2A}|DB\\DB.csproj|c:\\users\\niver\\desktop\\posfarmacia\\db\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21F145C-45EE-4400-A56D-4E57B22D6F2A}|DB\\DB.csproj|solutionrelative:db\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB1FBD4-021E-47E1-AC12-A40743964C47}|Repository\\Repository.csproj|c:\\users\\niver\\desktop\\posfarmacia\\repository\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB1FBD4-021E-47E1-AC12-A40743964C47}|Repository\\Repository.csproj|solutionrelative:repository\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB1FBD4-021E-47E1-AC12-A40743964C47}|Repository\\Repository.csproj|c:\\users\\niver\\desktop\\posfarmacia\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB1FBD4-021E-47E1-AC12-A40743964C47}|Repository\\Repository.csproj|solutionrelative:repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21F145C-45EE-4400-A56D-4E57B22D6F2A}|DB\\DB.csproj|c:\\users\\niver\\desktop\\posfarmacia\\db\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21F145C-45EE-4400-A56D-4E57B22D6F2A}|DB\\DB.csproj|solutionrelative:db\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E21F145C-45EE-4400-A56D-4E57B22D6F2A}|DB\\DB.csproj|c:\\users\\niver\\desktop\\posfarmacia\\db\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E21F145C-45EE-4400-A56D-4E57B22D6F2A}|DB\\DB.csproj|solutionrelative:db\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E21F145C-45EE-4400-A56D-4E57B22D6F2A}|DB\\DB.csproj|c:\\users\\niver\\desktop\\posfarmacia\\db\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E21F145C-45EE-4400-A56D-4E57B22D6F2A}|DB\\DB.csproj|solutionrelative:db\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E21F145C-45EE-4400-A56D-4E57B22D6F2A}|DB\\DB.csproj|c:\\users\\niver\\desktop\\posfarmacia\\db\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E21F145C-45EE-4400-A56D-4E57B22D6F2A}|DB\\DB.csproj|solutionrelative:db\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E21F145C-45EE-4400-A56D-4E57B22D6F2A}|DB\\DB.csproj|c:\\users\\niver\\desktop\\posfarmacia\\db\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E21F145C-45EE-4400-A56D-4E57B22D6F2A}|DB\\DB.csproj|solutionrelative:db\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BB1FBD4-021E-47E1-AC12-A40743964C47}|Repository\\Repository.csproj|c:\\users\\niver\\desktop\\posfarmacia\\repository\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB1FBD4-021E-47E1-AC12-A40743964C47}|Repository\\Repository.csproj|solutionrelative:repository\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450A996C-917F-45CD-ABBF-E5EB14CD4724}|PosFarmacia\\PosFarmacia.csproj|c:\\users\\niver\\desktop\\posfarmacia\\posfarmacia\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450A996C-917F-45CD-ABBF-E5EB14CD4724}|PosFarmacia\\PosFarmacia.csproj|solutionrelative:posfarmacia\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB1FBD4-021E-47E1-AC12-A40743964C47}|Repository\\Repository.csproj|c:\\users\\niver\\desktop\\posfarmacia\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB1FBD4-021E-47E1-AC12-A40743964C47}|Repository\\Repository.csproj|solutionrelative:repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450A996C-917F-45CD-ABBF-E5EB14CD4724}|PosFarmacia\\PosFarmacia.csproj|c:\\users\\niver\\desktop\\posfarmacia\\posfarmacia\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450A996C-917F-45CD-ABBF-E5EB14CD4724}|PosFarmacia\\PosFarmacia.csproj|solutionrelative:posfarmacia\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450A996C-917F-45CD-ABBF-E5EB14CD4724}|PosFarmacia\\PosFarmacia.csproj|c:\\users\\niver\\desktop\\posfarmacia\\posfarmacia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450A996C-917F-45CD-ABBF-E5EB14CD4724}|PosFarmacia\\PosFarmacia.csproj|solutionrelative:posfarmacia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450A996C-917F-45CD-ABBF-E5EB14CD4724}|PosFarmacia\\PosFarmacia.csproj|c:\\users\\niver\\desktop\\posfarmacia\\posfarmacia\\controllers\\detalleventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450A996C-917F-45CD-ABBF-E5EB14CD4724}|PosFarmacia\\PosFarmacia.csproj|solutionrelative:posfarmacia\\controllers\\detalleventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447F92A2-8564-4053-A9CF-5648E7880FF6}|Service\\Service.csproj|c:\\users\\niver\\desktop\\posfarmacia\\service\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447F92A2-8564-4053-A9CF-5648E7880FF6}|Service\\Service.csproj|solutionrelative:service\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450A996C-917F-45CD-ABBF-E5EB14CD4724}|PosFarmacia\\PosFarmacia.csproj|c:\\users\\niver\\desktop\\posfarmacia\\posfarmacia\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450A996C-917F-45CD-ABBF-E5EB14CD4724}|PosFarmacia\\PosFarmacia.csproj|solutionrelative:posfarmacia\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB1FBD4-021E-47E1-AC12-A40743964C47}|Repository\\Repository.csproj|c:\\users\\niver\\desktop\\posfarmacia\\repository\\detalleventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB1FBD4-021E-47E1-AC12-A40743964C47}|Repository\\Repository.csproj|solutionrelative:repository\\detalleventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447F92A2-8564-4053-A9CF-5648E7880FF6}|Service\\Service.csproj|c:\\users\\niver\\desktop\\posfarmacia\\service\\detalleventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447F92A2-8564-4053-A9CF-5648E7880FF6}|Service\\Service.csproj|solutionrelative:service\\detalleventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447F92A2-8564-4053-A9CF-5648E7880FF6}|Service\\Service.csproj|c:\\users\\niver\\desktop\\posfarmacia\\service\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447F92A2-8564-4053-A9CF-5648E7880FF6}|Service\\Service.csproj|solutionrelative:service\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447F92A2-8564-4053-A9CF-5648E7880FF6}|Service\\Service.csproj|c:\\users\\niver\\desktop\\posfarmacia\\service\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447F92A2-8564-4053-A9CF-5648E7880FF6}|Service\\Service.csproj|solutionrelative:service\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450A996C-917F-45CD-ABBF-E5EB14CD4724}|PosFarmacia\\PosFarmacia.csproj|c:\\users\\niver\\desktop\\posfarmacia\\posfarmacia\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450A996C-917F-45CD-ABBF-E5EB14CD4724}|PosFarmacia\\PosFarmacia.csproj|solutionrelative:posfarmacia\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447F92A2-8564-4053-A9CF-5648E7880FF6}|Service\\Service.csproj|c:\\users\\niver\\desktop\\posfarmacia\\service\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447F92A2-8564-4053-A9CF-5648E7880FF6}|Service\\Service.csproj|solutionrelative:service\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21F145C-45EE-4400-A56D-4E57B22D6F2A}|DB\\DB.csproj|c:\\users\\niver\\desktop\\posfarmacia\\db\\migrations\\20250313022804_primera-version.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21F145C-45EE-4400-A56D-4E57B22D6F2A}|DB\\DB.csproj|solutionrelative:db\\migrations\\20250313022804_primera-version.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Migrations\\20250313022609_primera-version.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,18 +101,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E21F145C-45EE-4400-A56D-4E57B22D6F2A}|DB\\DB.csproj|c:\\users\\niver\\desktop\\posfarmacia\\db\\models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E21F145C-45EE-4400-A56D-4E57B22D6F2A}|DB\\DB.csproj|solutionrelative:db\\models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{450A996C-917F-45CD-ABBF-E5EB14CD4724}|PosFarmacia\\PosFarmacia.csproj|c:\\users\\niver\\desktop\\posfarmacia\\posfarmacia\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{450A996C-917F-45CD-ABBF-E5EB14CD4724}|PosFarmacia\\PosFarmacia.csproj|solutionrelative:posfarmacia\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BB1FBD4-021E-47E1-AC12-A40743964C47}|Repository\\Repository.csproj|c:\\users\\niver\\desktop\\posfarmacia\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BB1FBD4-021E-47E1-AC12-A40743964C47}|Repository\\Repository.csproj|solutionrelative:repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{447F92A2-8564-4053-A9CF-5648E7880FF6}|Service\\Service.csproj|c:\\users\\niver\\desktop\\posfarmacia\\service\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{447F92A2-8564-4053-A9CF-5648E7880FF6}|Service\\Service.csproj|solutionrelative:service\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,115 +110,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250313022804_primera-version.cs",
-              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Migrations\\20250313022804_primera-version.cs",
-              "RelativeDocumentMoniker": "DB\\Migrations\\20250313022804_primera-version.cs",
-              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Migrations\\20250313022804_primera-version.cs",
-              "RelativeToolTip": "DB\\Migrations\\20250313022804_primera-version.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\Repository\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\Repository\\ProductoRepository.cs",
+              "RelativeToolTip": "Repository\\ProductoRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T02:28:04.411Z",
+              "WhenOpened": "2025-03-14T01:31:37.055Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20250313022609_primera-version.cs",
-              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Migrations\\20250313022609_primera-version.cs",
-              "RelativeDocumentMoniker": "DB\\Migrations\\20250313022609_primera-version.cs",
-              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Migrations\\20250313022609_primera-version.cs",
-              "RelativeToolTip": "DB\\Migrations\\20250313022609_primera-version.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\PosFarmacia\\Program.cs",
+              "RelativeDocumentMoniker": "PosFarmacia\\Program.cs",
+              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\PosFarmacia\\Program.cs",
+              "RelativeToolTip": "PosFarmacia\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T02:26:09.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20250313022453_segunda-version.cs",
-              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Migrations\\20250313022453_segunda-version.cs",
-              "RelativeDocumentMoniker": "DB\\Migrations\\20250313022453_segunda-version.cs",
-              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Migrations\\20250313022453_segunda-version.cs",
-              "RelativeToolTip": "DB\\Migrations\\20250313022453_segunda-version.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T02:24:54.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PosFarmaciaContext.cs",
-              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\PosFarmaciaContext.cs",
-              "RelativeDocumentMoniker": "DB\\PosFarmaciaContext.cs",
-              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\PosFarmaciaContext.cs",
-              "RelativeToolTip": "DB\\PosFarmaciaContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T02:06:50.733Z",
+              "WhenOpened": "2025-03-14T01:28:34.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "DB\\Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Models\\Cliente.cs",
-              "RelativeToolTip": "DB\\Models\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T01:48:46.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DetalleVenta.cs",
-              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Models\\DetalleVenta.cs",
-              "RelativeDocumentMoniker": "DB\\Models\\DetalleVenta.cs",
-              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Models\\DetalleVenta.cs",
-              "RelativeToolTip": "DB\\Models\\DetalleVenta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T01:57:57.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Venta.cs",
-              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Models\\Venta.cs",
-              "RelativeDocumentMoniker": "DB\\Models\\Venta.cs",
-              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Models\\Venta.cs",
-              "RelativeToolTip": "DB\\Models\\Venta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T01:54:43.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Models\\Producto.cs",
-              "RelativeDocumentMoniker": "DB\\Models\\Producto.cs",
-              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Models\\Producto.cs",
-              "RelativeToolTip": "DB\\Models\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T01:48:35.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "DB\\Models\\Categoria.cs",
@@ -179,20 +153,227 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\PosFarmacia\\Controllers\\ClienteController.cs",
-              "RelativeDocumentMoniker": "PosFarmacia\\Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\PosFarmacia\\Controllers\\ClienteController.cs",
-              "RelativeToolTip": "PosFarmacia\\Controllers\\ClienteController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "DB\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Models\\Producto.cs",
+              "RelativeToolTip": "DB\\Models\\Producto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T01:35:57.314Z",
+              "WhenOpened": "2025-03-13T01:48:35.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\PosFarmacia\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "PosFarmacia\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\PosFarmacia\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "PosFarmacia\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:23:33.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "DB\\Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Models\\Venta.cs",
+              "RelativeToolTip": "DB\\Models\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T01:54:43.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\Repository\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\Repository\\CategoriaRepository.cs",
+              "RelativeToolTip": "Repository\\CategoriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:18:44.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\Repository\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\Repository\\ClienteRepository.cs",
+              "RelativeToolTip": "Repository\\ClienteRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T01:32:14.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\Repository\\VentaRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\VentaRepository.cs",
+              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\Repository\\VentaRepository.cs",
+              "RelativeToolTip": "Repository\\VentaRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:35:22.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "DB\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Models\\Cliente.cs",
+              "RelativeToolTip": "DB\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T01:48:46.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\PosFarmacia\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "PosFarmacia\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\PosFarmacia\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "PosFarmacia\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:33:53.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\Service\\ProductoService.cs",
+              "RelativeDocumentMoniker": "Service\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\Service\\ProductoService.cs",
+              "RelativeToolTip": "Service\\ProductoService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:32:55.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VentaService.cs",
+              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\Service\\VentaService.cs",
+              "RelativeDocumentMoniker": "Service\\VentaService.cs",
+              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\Service\\VentaService.cs",
+              "RelativeToolTip": "Service\\VentaService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:36:27.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\PosFarmacia\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "PosFarmacia\\Controllers\\VentaController.cs",
+              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\PosFarmacia\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "PosFarmacia\\Controllers\\VentaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:37:21.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DetalleVentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\Repository\\DetalleVentaRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\DetalleVentaRepository.cs",
+              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\Repository\\DetalleVentaRepository.cs",
+              "RelativeToolTip": "Repository\\DetalleVentaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:38:35.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "DetalleVentaController.cs",
+              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\PosFarmacia\\Controllers\\DetalleVentaController.cs",
+              "RelativeDocumentMoniker": "PosFarmacia\\Controllers\\DetalleVentaController.cs",
+              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\PosFarmacia\\Controllers\\DetalleVentaController.cs",
+              "RelativeToolTip": "PosFarmacia\\Controllers\\DetalleVentaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:41:02.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DetalleVentaService.cs",
+              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\Service\\DetalleVentaService.cs",
+              "RelativeDocumentMoniker": "Service\\DetalleVentaService.cs",
+              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\Service\\DetalleVentaService.cs",
+              "RelativeToolTip": "Service\\DetalleVentaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:39:43.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\Service\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "Service\\CategoriaService.cs",
+              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\Service\\CategoriaService.cs",
+              "RelativeToolTip": "Service\\CategoriaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:22:24.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250313022804_primera-version.cs",
+              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Migrations\\20250313022804_primera-version.cs",
+              "RelativeDocumentMoniker": "DB\\Migrations\\20250313022804_primera-version.cs",
+              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Migrations\\20250313022804_primera-version.cs",
+              "RelativeToolTip": "DB\\Migrations\\20250313022804_primera-version.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:28:04.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DetalleVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Models\\DetalleVenta.cs",
+              "RelativeDocumentMoniker": "DB\\Models\\DetalleVenta.cs",
+              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Models\\DetalleVenta.cs",
+              "RelativeToolTip": "DB\\Models\\DetalleVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T01:57:57.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "ClienteService.cs",
               "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\Service\\ClienteService.cs",
               "RelativeDocumentMoniker": "Service\\ClienteService.cs",
@@ -205,16 +386,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ClienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\Repository\\ClienteRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\ClienteRepository.cs",
-              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\Repository\\ClienteRepository.cs",
-              "RelativeToolTip": "Repository\\ClienteRepository.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBkAAAANAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\PosFarmacia\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "PosFarmacia\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\PosFarmacia\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "PosFarmacia\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T01:32:14.044Z",
+              "WhenOpened": "2025-03-13T01:35:57.314Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PosFarmaciaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\PosFarmaciaContext.cs",
+              "RelativeDocumentMoniker": "DB\\PosFarmaciaContext.cs",
+              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\PosFarmaciaContext.cs",
+              "RelativeToolTip": "DB\\PosFarmaciaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:06:50.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250313022453_segunda-version.cs",
+              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Migrations\\20250313022453_segunda-version.cs",
+              "RelativeDocumentMoniker": "DB\\Migrations\\20250313022453_segunda-version.cs",
+              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Migrations\\20250313022453_segunda-version.cs",
+              "RelativeToolTip": "DB\\Migrations\\20250313022453_segunda-version.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:24:54.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250313022609_primera-version.cs",
+              "DocumentMoniker": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Migrations\\20250313022609_primera-version.cs",
+              "RelativeDocumentMoniker": "DB\\Migrations\\20250313022609_primera-version.cs",
+              "ToolTip": "C:\\Users\\Niver\\Desktop\\PosFarmacia\\DB\\Migrations\\20250313022609_primera-version.cs",
+              "RelativeToolTip": "DB\\Migrations\\20250313022609_primera-version.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:26:09.45Z"
             }
           ]
         }
