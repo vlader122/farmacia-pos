@@ -1,7 +1,10 @@
 using DB;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.OpenApi.Models;
 using Repository;
 using Service;
+using Swashbuckle.AspNetCore.Filters;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,11 +14,26 @@ builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen(options =>
+{
+    options.AddSecurityDefinition("oauth2", new OpenApiSecurityScheme
+    {
+        In = ParameterLocation.Header,
+        Name = "Authorization",
+        Type = SecuritySchemeType.ApiKey
+    });
+
+    options.OperationFilter<SecurityRequirementsOperationFilter>();
+});
 // Conectar con la BD
 builder.Services.AddDbContext<PosFarmaciaContext>(options =>
 {
     options.UseNpgsql(builder.Configuration.GetConnectionString("PosFarmaciaConeccion"));
 });
+
+builder.Services.AddIdentityApiEndpoints<IdentityUser>()
+    .AddEntityFrameworkStores<PosFarmaciaContext>();
 
 //Repository
 builder.Services.AddScoped<ClienteRepository>();
@@ -47,7 +65,13 @@ using (var scope = app.Services.CreateScope())
 if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
+    app.UseSwagger();
+    app.UseSwaggerUI(options =>
+    {
+        options.SwaggerEndpoint("/openapi/v1.json", "My API");
+    });
 }
+app.MapIdentityApi<IdentityUser>();
 
 app.UseAuthorization();
 
