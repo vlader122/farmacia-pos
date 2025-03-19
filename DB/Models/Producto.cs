@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace DB.Models
 {
-    public class Producto
+    public class Producto : IValidatableObject
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
@@ -22,5 +22,13 @@ namespace DB.Models
         [ForeignKey("CategoriaId")]
         public int CategoriaId { get; set; }
         public virtual Categoria? Categoria { get; set; }
+
+        public IEnumerable<ValidationResult> Validate(ValidationContext validationContext)
+        {
+            if (Descripcion.Length < 2 || Descripcion.Length > 10)
+            {
+                yield return new ValidationResult("la descripcion debe estar entre 2 y 10", new[] { Descripcion });
+            }
+        }
     }
 }

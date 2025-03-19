@@ -8,7 +8,6 @@ namespace PosFarmacia.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
     public class ProductoController : ControllerBase
     {
         private readonly ProductoService _productoService;
