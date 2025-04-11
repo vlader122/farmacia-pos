@@ -84,7 +84,7 @@ app.MapIdentityApi<IdentityUser>();
 
 app.UseAuthorization();
 
-app.UseCors();
+app.UseCors("AllowAngular");
 
 app.MapControllers();
 

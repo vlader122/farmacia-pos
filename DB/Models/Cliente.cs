@@ -21,9 +21,9 @@ namespace DB.Models
 
         public IEnumerable<ValidationResult> Validate(ValidationContext validationContext)
         {
-            if (!Regex.IsMatch(Telefono, "@\"^\\d{7}$\""))
+            if (Direccion.Length < 5)
             {
-                yield return new ValidationResult("Ingrese un numero de telefono valido", new[] { Telefono });
+                yield return new ValidationResult("la direccion es demaciado corta", new[] { Telefono });
             }
         }
     }

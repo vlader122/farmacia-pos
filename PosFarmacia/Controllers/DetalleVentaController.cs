@@ -17,11 +17,11 @@ namespace PosFarmacia.Controllers
             _detalleVentaService = detalleVentaService;
         }
 
-        [HttpGet]
-        public async Task<ActionResult<IEnumerable<DetalleVenta>>> GetAll()
-        {
-            return Ok(await _detalleVentaService.GetAll());
-        }
+        //[HttpGet]
+        //public async Task<ActionResult<IEnumerable<DetalleVenta>>> GetAll()
+        //{
+        //    return Ok(await _detalleVentaService.GetAll());
+        //}
 
         [HttpGet("{id}")]
         public async Task<ActionResult<DetalleVenta>> GetById(int id)

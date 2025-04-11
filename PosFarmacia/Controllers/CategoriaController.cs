@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using PosFarmacia.helpers;
 using Service;
 
 namespace PosFarmacia.Controllers
@@ -18,9 +19,24 @@ namespace PosFarmacia.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Categoria>>> GetAll()
+        public async Task<ActionResult<IEnumerable<Categoria>>> GetAll(int numeroPagina = 1, int tamañoPagina = 10)
         {
-            return Ok(await _categoriaService.GetAll());
+            if (numeroPagina < 1 || tamañoPagina < 1)
+            {
+                return BadRequest("La paginacion es incorrecta revise e intente nuevamente.");
+            }
+
+            List<Categoria> categorias;
+            int totalRegistros;
+            (categorias, totalRegistros) = await _categoriaService.GetAll(numeroPagina, tamañoPagina);
+            ResponsePaginado<Categoria> response = new ResponsePaginado<Categoria>
+            {
+                TotalRegistros = totalRegistros,
+                NumeroPagina = numeroPagina,
+                TamanioPagina = tamañoPagina,
+                Dato = categorias
+            };
+            return Ok(response);
         }
 
         [HttpGet("{id}")]

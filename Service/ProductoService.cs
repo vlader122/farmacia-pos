@@ -22,9 +22,9 @@ namespace Service
             return await _productoRepository.Delete(id);
         }
 
-        public async Task<List<Producto>> GetAll()
+        public async Task<(List<Producto>, int totalRegistros)> GetAll(int numeroPagina, int tamañoPagina)
         {
-            return await _productoRepository.GetAll();
+            return await _productoRepository.GetAll(numeroPagina, tamañoPagina);
         }
 
         public async Task<Producto> GetById(int id)

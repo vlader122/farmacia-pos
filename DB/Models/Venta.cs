@@ -21,6 +21,8 @@ namespace DB.Models
         [JsonIgnore]
         public virtual Cliente? Cliente { get; set; }
 
+        public virtual ICollection<DetalleVenta> DetalleVentas { get; set; }
+
 
     }
 }
